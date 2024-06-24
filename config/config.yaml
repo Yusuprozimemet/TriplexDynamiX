@@ -1,0 +1,13 @@
+# Configuration for OpenMM Simulation
+pdb_path: "e:/Research-RNA-Triplex/src/RNAtripleStability/data/A53c_mdr.pdb"
+forcefield_files:
+  - amber14-all.xml
+temperature: 303.15  # in Kelvin
+friction_coefficient: 1.0  # in 1/picosecond
+time_step: 2.0  # in femtoseconds
+simulation_steps: 5000
+report_interval: 1000
+output_dcd_file: "traj.dcd"
+output_pdb_file: "U23a_out.pdb"
+output_csv_file: "U23a.csv"
+max_minimization_iterations: 1000
