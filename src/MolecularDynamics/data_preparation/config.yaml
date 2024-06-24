@@ -1,7 +1,3 @@
 input_folder: 'E:\\MolecularDynamicsApp\\src\\MolecularDynamics\\data\\input'
 output_folder: 'E:\\MolecularDynamicsApp\\src\\MolecularDynamics\\data\\output'
-forcefield: 'amber14-all.xml'
-temperature: 303.15
-friction: 1
-timestep: 2
-simulation_steps: 5000
+rawData: 'E:\\MolecularDynamicsApp\\src\\MolecularDynamics\\data\\preparedData'
