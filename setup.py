@@ -14,9 +14,9 @@ def get_requirments(file_path:str)->List[str]:
     return requirments
 
 setup(
-name="RNAtriplesStability",
+name="MolecularDynamics",
 version="0.0.1",
-author="Yusup Rozimemet (Yusufu Rouzimaimaiti)",
+author="Yusufu Rouzimaimaiti",
 author_email="yusup.rozimemet@gmail.com",
 packages=find_packages(),
 install_requires=get_requirments('requirements.txt')
