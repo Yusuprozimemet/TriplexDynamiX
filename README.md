@@ -1,6 +1,6 @@
 # MolecularDynamicsApp
 
-Welcome to our molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. More features are currently in development. Initially, this app was used for analyzing RNA triples stability. Although not all parameters and features are included at present, it serves as a useful starting point for researchers new to molecular dynamics. For further applications, refer to the OpenMM documentation.
+Welcome to our molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. More features are currently in development. Initially, this app was used for analyzing RNA triples stability. Although not all parameters and features are included at present, it serves as a useful starting point for researchers new to molecular dynamics. For further applications, refer to the OpenMM and MDtraj documentation.
 
 ### How to Use This App:
 
