@@ -1,6 +1,6 @@
 # MolecularDynamicsApp
 
-Welcome to our molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. More features are currently in development.
+Welcome to our molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. More features are currently in development. Initially, this app was used for analyzing RNA triples stability. Although not all parameters and features are included at present, it serves as a useful starting point for researchers new to molecular dynamics. For further applications, refer to the OpenMM documentation.
 
 ### How to Use This App:
 
@@ -28,7 +28,7 @@ Welcome to our molecular dynamics application designed for trajectory analysis, 
 
 6. Navigate to the appropriate directory to run the desired Python script.
 
-7. You can modify parameters in the YAML files for the scripts. Initially, this app was used for analyzing RNA triples stability. Although not all parameters and features are included at present, it serves as a useful starting point for researchers new to molecular dynamics. For further applications, refer to the OpenMM documentation.
+7. You can modify parameters in the YAML files for the scripts. 
 
 8. For any questions or issues, please contact me at Rouzimaimaiti.Yusufu@mail.huji.ac.il.
 
