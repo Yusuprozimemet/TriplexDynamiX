@@ -1,15 +1,15 @@
-# MolecularDynamicsApp
+# TriplexDynamiX
 
-Welcome to our molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. More features are currently in development. Initially, this app was used for analyzing RNA triples stability. Although not all parameters and features are included at present, it serves as a useful starting point for researchers new to molecular dynamics. For further applications, refer to the OpenMM and MDtraj documentation.
+Welcome to TriplexDynamiX, My molecular dynamics application designed for trajectory analysis, energy minimization, and comprehensive data handling and interpretation. I am continually developing more features to enhance its functionality. Originally focused on analyzing RNA triple stability, TriplexDynamiX serves as an excellent starting point for researchers new to molecular dynamics. For additional applications, please refer to the OpenMM and MDtraj documentation.
 
-### How to Use This App:
+### How to Use TriplexDynamiX:
 
 1. Clone the repository:
    ```
    git clone https://github.com/Yusuprozimemet/MolecularDynamicsApp.git
    ```
 
-2. Create a Python 3.7 environment:
+2. Set up a Python 3.7 environment:
    ```
    conda create -n yourenv python=3.7
    ```
@@ -24,12 +24,12 @@ Welcome to our molecular dynamics application designed for trajectory analysis, 
    conda env update -n yourenv -f environment.yaml
    ```
 
-5. Place your input PDB files in `src/MolecularDynamics/data/input`. Ensure these files are ready for molecular dynamics simulations. You will find the output in `src/MolecularDynamics/data/output`.
+5. Place your input PDB files in `src/MolecularDynamics/data/input`. Ensure these files are prepared for molecular dynamics simulations. Results will be found in `src/MolecularDynamics/data/output`.
 
-6. Navigate to the appropriate directory to run the desired Python script.
+6. Navigate to the appropriate directory to run your desired Python script.
 
-7. You can modify parameters in the YAML files for the scripts. 
+7. Customize parameters in the YAML files for the scripts.
 
-8. For any questions or issues, please contact me at Rouzimaimaiti.Yusufu@mail.huji.ac.il.
+8. For questions or issues, please contact me at Rouzimaimaiti.Yusufu@mail.huji.ac.il.
 
-Enjoy! 
+Enjoy using TriplexDynamiX!
