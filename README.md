@@ -30,6 +30,6 @@ Welcome to TriplexDynamiX, My molecular dynamics application designed for trajec
 
 7. Customize parameters in the YAML files for the scripts.
 
-8. For questions or issues, please contact me at Rouzimaimaiti.Yusufu@mail.huji.ac.il.
+8. For questions or issues, please contact me at yusup.rozimemet@gmail.com
 
 Enjoy using TriplexDynamiX!
